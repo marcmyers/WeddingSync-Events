@@ -54,7 +54,7 @@
 }
 
 /////////////////
-// KONKOL code //
+// KONKOL KODE //
 /////////////////
 
 -(void)dismissKeyboard {
